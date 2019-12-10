@@ -1,0 +1,12 @@
+Author: Andrew McKinney
+Creation Date: 12/9/2019
+Document: Matplotlib-Challenge Observations
+VU_DABC
+
+Observations:
+
+1. Capomulin was the 2nd best performing drug in tumor volume reduction behind Ramicane, 19.5% vs 22.3%. It is noteworthy that no other drugs tested resulted in tumor reduction. Unfortunately, Capomulin has the worst SEM for Tumor Volume in the study, indicating more inconsistent results for tumor reduction to the treatment.
+
+2. Capomulin has the highest survival rate after 45 days of treatment. Which could be quantified as the key indicator of performance.
+
+3. Capomulin has the 2nd lowest Metastatic Site Spread during Treatment, just behind Ramicane. With a lower SEM, Ramicane is also more consistent at keeping spreading from occuring.

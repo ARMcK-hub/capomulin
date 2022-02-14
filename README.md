@@ -14,16 +14,16 @@ Version Author: Drew McKinney
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-![GitHub last commit](https://img.shields.io/github/last-commit/ARMcK-hub/Capomulin)
+![GitHub last commit](https://img.shields.io/github/last-commit/ARMcK-hub/capomulin)
 [![MIT License][license-shield]][license-url]
-![GitHub top language](https://img.shields.io/github/languages/top/ARMcK-hub/Capomulin)
-![GitHub repo size](https://img.shields.io/github/repo-size/ARMcK-hub/Capomulin)
+![GitHub top language](https://img.shields.io/github/languages/top/ARMcK-hub/capomulin)
+![GitHub repo size](https://img.shields.io/github/repo-size/ARMcK-hub/capomulin)
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwestendfinancial.herokuapp.com%2F)
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ARMcK-hub/Capomulin">
+  <a href="https://github.com/ARMcK-hub/capomulin">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFhalvgCdnR5rvHHuQLcmyRdubdI16_P7HcrG-ypyplP7hNvbh&usqp=CAU" alt="Logo" width="100" height="100">
   </a>
 
@@ -32,11 +32,11 @@ Version Author: Drew McKinney
   <p align="center">
     Cancer's Best Chance
     <br />
-    <a href="https://github.com/ARMcK-hub/Capomulin" target="_blank"><strong> >> Visit Demo >> </strong></a>
+    <a href="https://github.com/ARMcK-hub/capomulin" target="_blank"><strong> >> Visit Demo >> </strong></a>
     <br />
-    <a href="https://github.com/ARMcK-hub/Capomulin/issues">Report Bug</a>
+    <a href="https://github.com/ARMcK-hub/capomulin/issues">Report Bug</a>
     -
-    <a href="https://github.com/ARMcK-hub/Capomulin/issues">Request Feature</a>
+    <a href="https://github.com/ARMcK-hub/capomulin/issues">Request Feature</a>
   </p>
 </p>
 
@@ -56,7 +56,7 @@ Version Author: Drew McKinney
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/ARMcK-hub/Capomulin)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/ARMcK-hub/capomulin)
 
 This repository houses a graphical comparison and analysis of cancer treatments.
 
@@ -123,14 +123,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- Project Dynamic -->
-[license-shield]: https://img.shields.io/github/license/ARMcK-hub/Capomulin.svg?style=flat
-[contributors-shield]: https://img.shields.io/github/contributors/ARMcK-hub/Capomulin.svg?style=flat
-[contributors-url]: https://github.com/ARMcK-hub/Capomulin/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ARMcK-hub/Capomulin.svg?style=flat
-[forks-url]: https://github.com/ARMcK-hub/Capomulin/network/members
-[stars-shield]: https://img.shields.io/github/stars/ARMcK-hub/Capomulin.svg?style=flat
-[stars-url]: https://github.com/ARMcK-hub/Capomulin/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ARMcK-hub/Capomulin.svg?style=flat
-[issues-url]: https://github.com/ARMcK-hub/Capomulin/issues
-[product-screenshot]: https://raw.githubusercontent.com/ARMcK-hub/Capomulin/master/Pymaceuticals/Output_Graphs/Tumor%20Response%20to%20Treatment.png
+[license-shield]: https://img.shields.io/github/license/ARMcK-hub/capomulin.svg?style=flat
+[contributors-shield]: https://img.shields.io/github/contributors/ARMcK-hub/capomulin.svg?style=flat
+[contributors-url]: https://github.com/ARMcK-hub/capomulin/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ARMcK-hub/capomulin.svg?style=flat
+[forks-url]: https://github.com/ARMcK-hub/capomulin/network/members
+[stars-shield]: https://img.shields.io/github/stars/ARMcK-hub/capomulin.svg?style=flat
+[stars-url]: https://github.com/ARMcK-hub/capomulin/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ARMcK-hub/capomulin.svg?style=flat
+[issues-url]: https://github.com/ARMcK-hub/capomulin/issues
+[product-screenshot]: https://raw.githubusercontent.com/ARMcK-hub/capomulin/master/Pymaceuticals/Output_Graphs/Tumor%20Response%20to%20Treatment.png
 
